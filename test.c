@@ -1,7 +1,9 @@
 #include <stdio.h> 
 
 int main(){
-    printf("Hello bitches, I live");
+    //bootcamp 1 
+    
+    printf("Divya S");
     
     return 0;
 }
